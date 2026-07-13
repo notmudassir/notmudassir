@@ -1,2 +1,4 @@
 # MUDASSIR-MAHMOOD
-<img width="3025" height="1001" alt="MUDASSIR-MAHMOOD" src="https://github.com/user-attachments/assets/37bcc7b0-92f9-4407-939a-ebb5dea0b0be" />
+## Building Contigrate
+
+<img width="3477" height="1690" alt="MUDASSIR-COVER" src="https://github.com/user-attachments/assets/467a4907-97c6-458e-a4db-6970cbd694e0" />
